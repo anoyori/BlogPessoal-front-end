@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url('https://image.freepik.com/fotos-gratis/planta-verde-folhas-natureza_53876-31239.jpg');
+
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

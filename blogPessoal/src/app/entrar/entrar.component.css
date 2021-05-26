@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url('https://image.freepik.com/fotos-gratis/conceito-botanico-vivido-do-close-up_23-2148535910.jpg');
+
+    min-height: 695px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
