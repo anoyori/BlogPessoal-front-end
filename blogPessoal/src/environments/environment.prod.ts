@@ -3,5 +3,8 @@ export const environment = {
   token: '',
   nome: '',
   id: 0,
-  foto: ''
+  foto: '',
+  server: 'https://testbloganoyori.herokuapp.com'
 };
+
+// http://localhost:4200/
