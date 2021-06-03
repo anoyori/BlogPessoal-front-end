@@ -1,10 +1,10 @@
 #img-bg {
-  background-image: url("https://image.freepik.com/fotos-gratis/fundo-de-folhagem-tropical-com-cartao-em-branco_24972-451.jpg");
-
-  min-height: 695px;
-  background-position: center;
+  background-color: #333;
+  background-image: url('https://37.media.tumblr.com/8b49699…/tumblr_n3iftvUesn1snvqtdo1_1280.jpg');
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 
 #img-cad {

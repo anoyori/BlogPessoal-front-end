@@ -7,4 +7,5 @@ export const environment = {
   server: 'https://testbloganoyori.herokuapp.com'
 };
 
-// http://localhost:4200/
+// http://localhost:8080
+//https://testbloganoyori.herokuapp.com
